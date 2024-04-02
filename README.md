@@ -1,6 +1,4 @@
-# Casey A. Ydenberg
-
-## About me
+## About
 
 Hi! I am a web developer and data-vis with 10 years experience building websites and web
 apps. While I have worked throughout the stack, my deep expertise is
